@@ -1,4 +1,4 @@
-# Prestashop Webmaster Site Verification Module
+## Prestashop Webmaster Site Verification Module
 The Prestashop Webmaster Site Verification Module allows webmasters and administrators to prove website ownership with the likes of Google Webmasters and many more similar sites. This module is easy to use and uses very little service resources.
 
 ###### How does this module verify your site?
