@@ -4,6 +4,9 @@ The Prestashop Webmaster Site Verification Module allows webmasters and administ
 ###### How does this module verify your site?
 There are many ways that you can verify your website with a site like Google Webmaster Tools, this module only supports one method which is by adding a META NAME combined with your unique ID in your page source.  It’s quick, it’s easy! And it works!
 
+###### Screenshot 
+![Prestashop Webmaster Site Verification Module](https://www.bybe.net/files/webmaster-site-verification-module-for-prestashop.png)
+
 ###### Support
 If you have any questions then you can visit our [project home website](https://www.bybe.net/prestashop-webmaster-site-verification/) at BYBE or alternatively you can [tweet](https://twitter.com/simonhayteruk) me on Twitter. 
 
